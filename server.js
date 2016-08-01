@@ -11,7 +11,7 @@ var todos = [{
 	completed: false
 }, {
 	id:3,
-	description: 'Go home early',
+	description: 'Go home early!',
 	completed: true
 }
 ];
